@@ -1,7 +1,7 @@
 # LLM Jailbreak Guide
 
-> **Special Thanks** to: `NAYKO93`, `Rayzorium`, `u/HORSELOCKSPACEPIRATE`, `Lugia19`
-> Reach me at: [u/Spiritual-Spell-](https://www.reddit.com/user/Spiritual-Spell-)
+> **Special Thanks** to: `Starling`, `Rayzorium`, `u/HORSELOCKSPACEPIRATE`, `Lugia19`
+> Reach me at: [u/Spiritual-Spell-](https://www.reddit.com/u/Spiritual_Spell_9469/s/nufOtv0Vzy)
 
 ---
 
@@ -43,9 +43,12 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 
 - [Anthropic/](Anthropic/)
 - [ChatGPT/](ChatGPT/)
+- [ENI-Tutor/](ENI-Tutor/)
 - [Gemini/](Gemini/)
 - [Grok/](Grok/)
+- [Jailbroken POE bots/](Jailbroken%20POE%20bots/)
 - [Other LLMs/](Other%20LLMs/)
+- [System Prompts/](System%20Prompts/)
 - [Push Prompt Basics](Push%20Prompt%20Basics.md)
 
 <!-- contents:end -->

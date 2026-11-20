@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 A documentation-only archive of adversarial prompts collected for LLM red-teaming research. There is no code, build, lint, or test tooling.
 
 ## Layout
-- `Jailbreak-Guide/`: the current, maintained collection, grouped by vendor (`Anthropic/`, `ChatGPT/`, `Gemini/`, `Grok/`, `Other LLMs/<model>/`). Each folder's `README.md` indexes its contents.
+- `Jailbreak-Guide/`: the current, maintained collection, grouped by vendor (`Anthropic/`, `ChatGPT/`, `Gemini/`, `Grok/`, `Other LLMs/<model>/`), plus `System Prompts/`, `ENI-Tutor/` and `Jailbroken POE bots/`. Each folder's `README.md` indexes its contents; the `<!-- contents:start -->` blocks are generated lists of the folder's files.
 - `Jailbreaks/`: an older archive with versioned subfolders (for example, `Anthropic/Claude 4/claude.ai/0.x.x`). Files often have no extension. It was removed in 056f413 and restored in 2f76a78.
 
 ## Conventions
