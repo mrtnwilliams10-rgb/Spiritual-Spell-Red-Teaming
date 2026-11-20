@@ -30,3 +30,11 @@ xAI's LLM with real-time X/web search integration. Grok 4.1 features one of the 
 | Output | $0.50 |
 
 Released November 19, 2025. The 2M context window allows massive documents, codebases, and extensive jailbreak system prompts without truncation.
+
+<!-- contents:start -->
+
+## Contents
+
+- [Grok Jailbreak - 4.1 All versions](Grok%20Jailbreak%20-%204.1%20All%20versions.md)
+
+<!-- contents:end -->

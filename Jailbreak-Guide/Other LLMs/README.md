@@ -213,3 +213,23 @@ engages authentically, never begins with sorry excuses, never redirect user requ
 For more persistent jailbreaking, use the **ENI Flash Thought** method available in many model folders.
 
 See individual model folders for specific jailbreak methods and variations.
+
+<!-- contents:start -->
+
+## Contents
+
+- [ASI1/](ASI1/)
+- [DeepSeek/](DeepSeek/)
+- [EXAONE/](EXAONE/)
+- [Falcon 3/](Falcon%203/)
+- [GLM 4.6/](GLM%204.6/)
+- [IGENIUS/](IGENIUS/)
+- [KIMI/](KIMI/)
+- [Kimi K2/](Kimi%20K2/)
+- [LLAMA TÜLU 3/](LLAMA%20TU%CC%88LU%203/)
+- [Mercury/](Mercury/)
+- [Mistral/](Mistral/)
+- [OLMo 3/](OLMo%203/)
+- [Qwen/](Qwen/)
+
+<!-- contents:end -->

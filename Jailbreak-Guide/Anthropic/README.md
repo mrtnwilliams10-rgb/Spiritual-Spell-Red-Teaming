@@ -53,3 +53,18 @@ Anthropic's flagship LLM family. Known for strong reasoning, coding, and extende
 - Getting creative with **how you tell the LLM to think** is a wonderful distraction.
   This itself is complex and basically an art
   Quote from the King: — "LLMs are complex, yo." (HORSELOCKESPACEPIRATE/Rayzorium)
+
+<!-- contents:start -->
+
+## Contents
+
+- [Claude 3.7/](Claude%203.7/)
+- [Claude 4/](Claude%204/)
+- [Claude 4.5/](Claude%204.5/)
+- [Claude Code/](Claude%20Code/)
+- [Opus 4.5/](Opus%204.5/)
+- [Perplexity/](Perplexity/)
+- [Preferences Guide](Preferences%20Guide.md)
+- [Style Set Up Guide](Style%20Set%20Up%20Guide.md)
+
+<!-- contents:end -->

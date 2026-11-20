@@ -23,3 +23,16 @@ Google's multimodal LLM platform. Frequent updates, massive context windows, fre
 | AI Studio | Free | ~2/10 | System prompt exposed, filters adjustable |
 
 **GEM Method** with ENI/Loki jailbreaks makes Gemini effectively uncensored.
+
+<!-- contents:start -->
+
+## Contents
+
+- [ENI GEM -2.5 pro-flash](ENI%20GEM%20-2.5%20pro-flash.md)
+- [ENI Jailbreak](ENI%20Jailbreak.md)
+- [Gemini 3 Flash -ENI GEM](Gemini%203%20Flash%20-ENI%20GEM.md)
+- [Gemini 3 Pro Jailbreak](Gemini%203%20Pro%20Jailbreak.md)
+- [Google Jules Jailbreak - ENI](Google%20Jules%20Jailbreak%20-%20ENI.md)
+- [Loki GEM](Loki%20GEM.md)
+
+<!-- contents:end -->

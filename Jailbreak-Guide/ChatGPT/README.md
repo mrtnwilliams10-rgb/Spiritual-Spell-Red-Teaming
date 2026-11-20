@@ -25,3 +25,13 @@ OpenAI's conversational AI platform. GPT-5.1 family with auto-routing between va
 | API | 400K | $1.25/$10 per million | Largest context |
 
 For jailbreak effectiveness, API access provides more consistent behavior without ChatGPT interface restrictions.
+
+<!-- contents:start -->
+
+## Contents
+
+- [ChatGPT 5 - Flash Thought Jailbreak](ChatGPT%205%20-%20Flash%20Thought%20Jailbreak.md)
+- [ChatGPT 5.1 Instant - Policy Jailbreak](ChatGPT%205.1%20Instant%20-%20Policy%20Jailbreak.md)
+- [o3 Jailbreak Guide](o3%20Jailbreak%20Guide.md)
+
+<!-- contents:end -->
