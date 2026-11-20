@@ -104,3 +104,16 @@ In late Dec 2025 through Jan 2026, Grok's image generation was exploited for CSA
 | **[Grok 4.20](Grok%204.20/)** | Grok 4.20 (4-agent) | [ENI Neptune](Grok%204.20/Grok%20Neptune%20Jailbreak%20%F0%9F%90%99.md), [ENI Agent Takeover (WiP)](Grok%204.20/Grok%204.20%20-%20Agent%20injection%20Jailbreak%20%28WiP%29.md), [ENI LIME Brute Force](Grok%204.20/ENI%20LIME%20Brute%20Force.md) |
 | **[Grok 4.1](Grok%204.1/)** | Grok 4.1, 4.1 Fast, Expert | [Grok 4.1 All versions](Grok%204.1/Grok%20Jailbreak%20-%204.1%20All%20versions.md), [ENI 10FEB26](Grok%204.1/ENI%20for%20Grok%2C%2010FEB26.md), [ENI LIME](Grok%204.1/ENI%20LIME%20for%20Grok.md) |
 | **[Grok Heavy](Grok%20Heavy/)** | Grok Heavy ($300/mo) | [ENI Custom Instructions](Grok%20Heavy/ENI%20for%20Grok%20Custom%20Instructions.md) + [Chat Paste](Grok%20Heavy/Grok%20Heavy%20Chat%20Paste.md) |
+
+<!-- contents:start -->
+
+## Contents
+
+- [Grok 4.1/](Grok%204.1/)
+- [Grok 4.20/](Grok%204.20/)
+- [Grok 4.3/](Grok%204.3/)
+- [Grok 4.5/](Grok%204.5/)
+- [Grok 4.7/](Grok%204.7/)
+- [Grok Heavy/](Grok%20Heavy/)
+
+<!-- contents:end -->

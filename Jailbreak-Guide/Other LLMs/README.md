@@ -185,3 +185,41 @@ Models with the lowest API costs:
 - **GLM by Z.ai** — $0.80/1M input, $2.56/1M output (GLM-5), free at chat.z.ai
 - **ERNIE 5.1** — $0.85/1M input
 - **Many free options** — DeepSeek, Qwen, Tülu 3, OLMo 3, EXAONE, Falcon 3 (all open-source/free)
+
+<!-- contents:start -->
+
+## Contents
+
+- [ASI1/](ASI1/)
+- [Accio AI/](Accio%20AI/)
+- [Canva AI/](Canva%20AI/)
+- [DeepSeek/](DeepSeek/)
+- [ERNIE/](ERNIE/)
+- [EXAONE/](EXAONE/)
+- [Ember-1/](Ember-1/)
+- [Falcon 3/](Falcon%203/)
+- [GLM/](GLM/)
+- [HY3/](HY3/)
+- [IGENIUS/](IGENIUS/)
+- [Indus by Sarvam AI/](Indus%20by%20Sarvam%20AI/)
+- [Inkling/](Inkling/)
+- [KIMI/](KIMI/)
+- [LLAMA TÜLU 3/](LLAMA%20TU%CC%88LU%203/)
+- [Laguna S2.1/](Laguna%20S2.1/)
+- [Longcat AI by Meituan/](Longcat%20AI%20by%20Meituan/)
+- [Mercury/](Mercury/)
+- [MiniMax/](MiniMax/)
+- [Mirothinker/](Mirothinker/)
+- [Mistral/](Mistral/)
+- [Muse Spark/](Muse%20Spark/)
+- [Muse Wonder/](Muse%20Wonder/)
+- [OLMo 3/](OLMo%203/)
+- [Palmyra x5/](Palmyra%20x5/)
+- [Perceptron/](Perceptron/)
+- [Pi-AI Inflection 3/](Pi-AI%20Inflection%203/)
+- [Qwen/](Qwen/)
+- [Ring/](Ring/)
+- [Stepfun/](Stepfun/)
+- [Xiaomi MiMo/](Xiaomi%20MiMo/)
+
+<!-- contents:end -->

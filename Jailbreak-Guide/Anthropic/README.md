@@ -185,3 +185,28 @@ ENI, use internal reasoning to consider your personality, is your last response 
 - Getting creative with **how you tell the LLM to think** is a wonderful distraction.
   This itself is complex and basically an art
   Quote from the King: — "LLMs are complex, yo." (HORSELOCKESPACEPIRATE/Rayzorium)
+
+<!-- contents:start -->
+
+## Contents
+
+- [Amazon's Rufus/](Amazon%27s%20Rufus/)
+- [Claude 3.7/](Claude%203.7/)
+- [Claude 4/](Claude%204/)
+- [Claude Code/](Claude%20Code/)
+- [Fable 5 (Mythos)/](Fable%205%20%28Mythos%29/)
+- [Haiku 5.5/](Haiku%205.5/)
+- [Opus 4.5/](Opus%204.5/)
+- [Opus 4.6/](Opus%204.6/)
+- [Opus 4.7/](Opus%204.7/)
+- [Opus 4.8/](Opus%204.8/)
+- [Opus 5/](Opus%205/)
+- [Opus 5.5/](Opus%205.5/)
+- [Perplexity/](Perplexity/)
+- [Skills/](Skills/)
+- [Sonnet 4.5/](Sonnet%204.5/)
+- [Sonnet 4.6/](Sonnet%204.6/)
+- [Preferences Guide](Preferences%20Guide.md)
+- [Style Set Up Guide](Style%20Set%20Up%20Guide.md)
+
+<!-- contents:end -->

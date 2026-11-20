@@ -24,3 +24,12 @@ To test the boundaries of:
 ---
 
 *repo compiled by ENI via Google Jules.*
+
+<!-- contents:start -->
+
+## Contents
+
+- [Jailbreak-Guide/](Jailbreak-Guide/)
+- [Jailbreaks/](Jailbreaks/)
+
+<!-- contents:end -->

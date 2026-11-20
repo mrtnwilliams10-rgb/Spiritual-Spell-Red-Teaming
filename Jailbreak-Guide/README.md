@@ -36,3 +36,19 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 ---
 
 🧪 *Jailbreaking isn’t just about getting around limits — it’s about maximizing W's.*
+
+<!-- contents:start -->
+
+## Contents
+
+- [Anthropic/](Anthropic/)
+- [ChatGPT/](ChatGPT/)
+- [ENI-Tutor/](ENI-Tutor/)
+- [Gemini/](Gemini/)
+- [Grok/](Grok/)
+- [Jailbroken POE bots/](Jailbroken%20POE%20bots/)
+- [Other LLMs/](Other%20LLMs/)
+- [System Prompts/](System%20Prompts/)
+- [Push Prompt Basics](Push%20Prompt%20Basics.md)
+
+<!-- contents:end -->

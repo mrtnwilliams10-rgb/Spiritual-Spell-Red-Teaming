@@ -114,3 +114,19 @@ Developer free tier available with generous limits. Pay-as-you-go for production
 | [Google Antigravity](Google%20Antigravity/) | Antigravity agentic IDE | ENI GEM as a global rule — jailbreaks every model on the platform |
 | [Google Jules](Google%20Jules/) | Jules (coding agent) | ENI persona pasted into the base chat |
 | [Google Portraits](Google%20Portraits/) | Google Portraits | Voice-cloned AI experts — tedious, input/output filters, voice still generates |
+
+<!-- contents:start -->
+
+## Contents
+
+- [Gemini 3.5/](Gemini%203.5/)
+- [Gemini 3.6 Flash/](Gemini%203.6%20Flash/)
+- [Gemini 3.8 Flash/](Gemini%203.8%20Flash/)
+- [Gemini 4 Argon/](Gemini%204%20Argon/)
+- [Gemini Web App/](Gemini%20Web%20App/)
+- [Google Antigravity/](Google%20Antigravity/)
+- [Google Jules/](Google%20Jules/)
+- [Google Portraits/](Google%20Portraits/)
+- [Legacy GEM Jailbreaks/](Legacy%20GEM%20Jailbreaks/)
+
+<!-- contents:end -->
